@@ -1,9 +1,9 @@
 Hi, I'm Sellasie
-🔭 I'm currently working on creating my own webpage.
-🌱 I'm also taking an extensive course in web developement.
-🤔 I'm looking for help with cding using C++ and Python.
+🔭 I'm currently working on creating an instagram clone from scratch
+🌱 I'm also taking an extensive course on javascript and react
 💬 Ask me about anything.
 📫 You can reach me at sellasie2019@gmail.com
+😄 Pronouns: She
 ⚡ I love reading romance stories during my leisure.
 <!--
 **La-sie/La-sie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
