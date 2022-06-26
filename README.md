@@ -1,21 +1,10 @@
 Hi, I'm Sellasie
-🔭 I'm currently working on creating an instagram clone from scratch
-🌱 I'm also taking an extensive course on javascript and react
-💬 Ask me about anything.
-📫 You can reach me at sellasie2019@gmail.com
-😄 Pronouns: She
-⚡ I love reading romance stories during my leisure.
-<!--
-**La-sie/La-sie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on creating an instagram clone.
+- 🌱 I’m currently learning javascript and react.
+- 🤔 I’m looking for help with python and c++.
+- 💬 Ask me about any coding related stuff.
+- 📫 How to reach me: www.sellasie2019@gmail.com
+- 😄 Pronouns: she / her
+- ⚡ Fun fact: i love reading during my leisure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
