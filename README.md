@@ -8,3 +8,4 @@ Hi, I'm Sellasie
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: i love reading during my leisure.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-sie)](https://github.com/La-sie/github-readme-stats)
