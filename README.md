@@ -1,5 +1,7 @@
 Hi, I'm Sellasie
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=La-sie&label=Profile%20views&color=e91e63&style=flat" alt="Reina" /> </p>
+
 - 🔭 I’m currently working on creating an instagram clone.
 - 🌱 I’m currently learning javascript and react.
 - 🤔 I’m looking for help with python and c++.
