@@ -11,3 +11,5 @@ Hi, I'm Sellasie
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-sie)](https://github.com/La-sie/github-readme-stats)
 
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=La-sie&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=La-sie&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=La-sie&theme=github_dark)
