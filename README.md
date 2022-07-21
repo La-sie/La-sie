@@ -9,3 +9,5 @@ Hi, I'm Sellasie
 - ⚡ Fun fact: i love reading during my leisure.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=La-sie)](https://github.com/La-sie/github-readme-stats)
+
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=La-sie&theme=dracula&hide_border=true)
