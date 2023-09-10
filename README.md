@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/reina_sell" target="blank"><img src="https://img.shields.io/twitter/follow/reina_sell?logo=twitter&style=for-the-badge" alt="reina_sell" /></a> </p>
 
-- 🔭 I’m currently working on **creating a food webapp**
+- 🔭 I’m currently working on **creating an admin dashboard**
 
 - 🌱 I’m currently learning **web programming with python and javascript using edx.**
 
